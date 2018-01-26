@@ -40,7 +40,7 @@
 		},
 		methods: {
 			onLoadMeetup(id) {
-			this.$router.push('/meetups/' + id)
+				this.$router.push('/meetups/' + id)
 			}
 		}
 	}
